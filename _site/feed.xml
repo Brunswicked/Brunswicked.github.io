@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-06T11:31:18-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brunswick</title><subtitle>Un site dédié au code, au design d&apos;interface et à la communauté RPG francophone.</subtitle><author><name>Your Name</name></author><entry><title type="html">Un test pour la forme</title><link href="http://localhost:4000/Petite-Introduction/" rel="alternate" type="text/html" title="Un test pour la forme" /><published>2022-06-04T00:00:00-04:00</published><updated>2022-06-04T00:00:00-04:00</updated><id>http://localhost:4000/Petite-Introduction</id><content type="html" xml:base="http://localhost:4000/Petite-Introduction/">&lt;p&gt;Une petite introduction avec quelques details perso mais pas trop, c’est pas un skyrock non plus.&lt;/p&gt;
+
+&lt;h2&gt;Salut tout le monde&lt;/h2&gt;
+
+&lt;h3&gt;Heading 2 pour la forme&lt;/h3&gt;
+
+&lt;h2&gt;Salut tout le monde&lt;/h2&gt;
+
+&lt;h3&gt;Heading 2 pour la forme&lt;/h3&gt;
+&lt;h3&gt;Heading 2 pour la forme&lt;/h3&gt;
+
+&lt;p&gt;Et tester la ToC t’as vu.&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Une petite introduction avec quelques details perso mais pas trop, c’est pas un skyrock non plus.</summary></entry><entry><title type="html">Un autre test</title><link href="http://localhost:4000/Test/" rel="alternate" type="text/html" title="Un autre test" /><published>2022-05-06T00:00:00-04:00</published><updated>2022-05-06T00:00:00-04:00</updated><id>http://localhost:4000/Test</id><content type="html" xml:base="http://localhost:4000/Test/">&lt;p&gt;Un deuxieme test avec des headers&lt;/p&gt;
+
+&lt;h2 id=&quot;html-elements&quot; class=&quot;&quot;&gt;HTML Elements&lt;/h2&gt;
+
+&lt;h3 id=&quot;blockquotes&quot; class=&quot;&quot;&gt;Blockquotes&lt;/h3&gt;</content><author><name>Your Name</name></author><summary type="html">Un deuxieme test avec des headers</summary></entry></feed>

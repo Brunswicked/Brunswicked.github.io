@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "Un test pour la forme"
+toc: true
 ---
 
 
