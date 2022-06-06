@@ -2,8 +2,10 @@
 main:
   - title: "A propos"
     url: https://brunswicked.github.io/about
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Tutorials"
+  url: /tutorials
+  - title: "Archives"
+  url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
