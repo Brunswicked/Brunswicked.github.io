@@ -2,11 +2,17 @@
 layout: single
 title:  "Petite introduction"
 
+category: 
+    - blog
+
 header:
   overlay_color: "#333"
+  #overlay_image: assets\images\FrogFanfare-AaronFeldman.png
+  caption: "Credit: Aaron Feldman"
+  teaser: assets\images\FrogFanfare-AaronFeldman.png
 
 tags:
-  - blabla
+  - blog
 ---
 
 ## Heading 3 pour la forme
