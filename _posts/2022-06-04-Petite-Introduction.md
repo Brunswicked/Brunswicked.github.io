@@ -1,23 +1,23 @@
 ---
-layout: posts
+layout: single
 title:  "Petite introduction"
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+
 header:
   overlay_color: "#333"
+
+tags:
+  - blabla
 ---
-<h1>Header 1</h1>
 
-Une petite introduction avec quelques details perso mais pas trop, c'est pas un skyrock non plus. 
+## Heading 3 pour la forme
 
-<h2>Salut tout le monde</h2>
+Nunc lobortis felis non erat pharetra, id pretium orci volutpat. Vivamus sed vestibulum quam. Nulla porta metus ultrices magna scelerisque, tristique laoreet neque varius. Curabitur sit amet porttitor lorem, non dignissim nisi. Donec vehicula ipsum in justo semper aliquam at facilisis augue. Fusce ligula lectus, elementum sed sodales vel, iaculis id augue. Curabitur ac vulputate ante, in commodo neque. Nullam ac gravida eros. Maecenas nec augue justo. Maecenas lobortis felis et enim lacinia rutrum.
 
-<h3>Heading 2 pour la forme</h3>
+### Salut tout le monde
 
-<h2>Salut tout le monde</h2>
+Integer vitae nunc sagittis, efficitur ante eu, imperdiet diam. Sed aliquet ex a ipsum bibendum, vitae pharetra ex hendrerit. Donec ut viverra ex. Donec semper felis urna, at vestibulum orci finibus vitae. Vestibulum mi arcu, molestie eget pellentesque sollicitudin, vestibulum eget ante. Maecenas ligula dui, mollis sed sapien non, molestie ultricies sapien. Sed sit amet sapien cursus, fermentum erat nec, elementum leo. Etiam cursus varius orci id porttitor.
 
-<h3>Heading 2 pour la forme</h3>
-<h3>Heading 2 pour la forme</h3>
+### Salut tout le monde
 
+Integer vitae nunc sagittis, efficitur ante eu, imperdiet diam. Sed aliquet ex a ipsum bibendum, vitae pharetra ex hendrerit. Donec ut viverra ex. Donec semper felis urna, at vestibulum orci finibus vitae. Vestibulum mi arcu, molestie eget pellentesque sollicitudin, vestibulum eget ante. Maecenas ligula dui, mollis sed sapien non, molestie ultricies sapien. Sed sit amet sapien cursus, fermentum erat nec, elementum leo. Etiam cursus varius orci id porttitor.
 Et tester la ToC t'as vu.

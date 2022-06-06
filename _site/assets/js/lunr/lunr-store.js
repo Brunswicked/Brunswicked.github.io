@@ -1,7 +1,7 @@
 var store = [{
         "title": "Petite introduction",
-        "excerpt":"Header 1   Une petite introduction avec quelques details perso mais pas trop, c’est pas un skyrock non plus.   Salut tout le monde   Heading 2 pour la forme   Salut tout le monde   Heading 2 pour la forme  Heading 2 pour la forme   Et tester la ToC t’as vu.  ","categories": [],
-        "tags": [],
+        "excerpt":"Heading 3 pour la forme Nunc lobortis felis non erat pharetra, id pretium orci volutpat. Vivamus sed vestibulum quam. Nulla porta metus ultrices magna scelerisque, tristique laoreet neque varius. Curabitur sit amet porttitor lorem, non dignissim nisi. Donec vehicula ipsum in justo semper aliquam at facilisis augue. Fusce ligula lectus,...","categories": [],
+        "tags": ["blabla"],
         "url": "/Petite-Introduction/",
         "teaser": null
       }]
