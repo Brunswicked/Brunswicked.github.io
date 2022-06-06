@@ -1,9 +1,13 @@
 ---
 layout: posts
-title:  "Un test pour la forme"
+title:  "Petite introduction"
 toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+header:
+  overlay_color: "#333"
 ---
-
+<h1>Header 1</h1>
 
 Une petite introduction avec quelques details perso mais pas trop, c'est pas un skyrock non plus. 
 
