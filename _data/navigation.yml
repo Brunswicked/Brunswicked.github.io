@@ -3,9 +3,9 @@ main:
   - title: "A propos"
     url: https://brunswicked.github.io/about
   - title: "Tutorials"
-  url: /tutorials
+    url: https://brunswicked.github.io/tutorials
   - title: "Archives"
-  url: /year-archive/
+    url: https://brunswicked.github.io/year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
