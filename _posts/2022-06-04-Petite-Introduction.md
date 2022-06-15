@@ -3,12 +3,12 @@ layout: single
 title:  "Petite introduction"
 
 category: 
-    - blog
+  - blog
+
+toc: true
 
 header:
   overlay_color: "#333"
-  #overlay_image: assets\images\FrogFanfare-AaronFeldman.png
-  caption: "Credit: Illu Finch"
   teaser: assets\images\FrogFanfare-AaronFeldman.png
 
 tags:
