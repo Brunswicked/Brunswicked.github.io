@@ -4,15 +4,18 @@ title:  "Petite introduction"
 
 category: 
   - blog
+tags:
+  - blog
 
 toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 header:
   overlay_color: "#333"
   teaser: assets\images\FrogFanfare-AaronFeldman.png
 
-tags:
-  - blog
+
 ---
 
 ## Heading 3 pour la forme
